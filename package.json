@@ -1,6 +1,6 @@
 {
   "name": "coworker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Matthew Wong & Sankalp Khanna",
   "description": "A simple Electron chat application using OpenRouter",
   "main": "main.js",
